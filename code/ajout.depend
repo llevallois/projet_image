@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1709133471 source:z:\documents\s1\s102-comp_algo\couleur.cpp
+	<iostream>
+	<vector>
+	"couleur.h"
+	<fstream>
+
+1706189697 z:\documents\s1\s102-comp_algo\couleur.h
+	<iostream>
+	<vector>
+	<fstream>
+
+1704995004 source:z:\documents\s1\s102-comp_algo\filtre.cpp
+	<iostream>
+	<vector>
+	"couleur.h"
+	<fstream>
+	"filtre.h"
+
+1704995004 z:\documents\s1\s102-comp_algo\filtre.h
+	<iostream>
+	<vector>
+	<fstream>
+
+1706189904 source:z:\documents\s1\s102-comp_algo\main.cpp
+	<iostream>
+	"couleur.h"
+	<vector>
+	<fstream>
+	"filtre.h"
+
+1704997678 source:z:\documents\s1\s102-comp_algo\maintest.cpp
+	<iostream>
+	"couleur.h"
+	<vector>
+	"filtre.h"
+
